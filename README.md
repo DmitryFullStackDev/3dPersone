@@ -16,8 +16,8 @@ Follow these steps to get the project up and running locally:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/DmitryFullStackDev/threeReact.git
-   cd 3dPersone https://github.com/DmitryFullStackDev/3dPersone.git
+   git clone https://github.com/DmitryFullStackDev/3dPersone.git
+   cd 3dPersone 
    ```
 
 2. **Install dependencies:**
